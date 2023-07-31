@@ -1,2 +1,2 @@
 # bioinformatics
-This repository holds Python scripts for ETL pipelines specifically for RNA-Seq.
+This repository holds Bash scripts for ETL pipelines for RNA-Seq.
